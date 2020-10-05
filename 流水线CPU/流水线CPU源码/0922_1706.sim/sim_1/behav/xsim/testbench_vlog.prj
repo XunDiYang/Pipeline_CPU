@@ -1,0 +1,28 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../0922_1706.srcs/sources_1/new" \
+"../../../../0922_1706.srcs/sources_1/new/alu.v" \
+"../../../../0922_1706.srcs/sources_1/new/beq_judge.v" \
+"../../../../0922_1706.srcs/sources_1/new/br_unit.v" \
+"../../../../0922_1706.srcs/sources_1/new/ctrl.v" \
+"../../../../0922_1706.srcs/sources_1/new/data_mem.v" \
+"../../../../0922_1706.srcs/sources_1/new/ex_mem.v" \
+"../../../../0922_1706.srcs/sources_1/new/hazards_unit.v" \
+"../../../../0922_1706.srcs/sources_1/new/id_ex.v" \
+"../../../../0922_1706.srcs/sources_1/new/if_id.v" \
+"../../../../0922_1706.srcs/sources_1/new/inst_mem.v" \
+"../../../../0922_1706.srcs/sources_1/new/mem_wb.v" \
+"../../../../0922_1706.srcs/sources_1/new/mux_num1.v" \
+"../../../../0922_1706.srcs/sources_1/new/mux_num2.v" \
+"../../../../0922_1706.srcs/sources_1/new/mux_reg_waddr.v" \
+"../../../../0922_1706.srcs/sources_1/new/mux_reg_wdata.v" \
+"../../../../0922_1706.srcs/sources_1/new/pc.v" \
+"../../../../0922_1706.srcs/sources_1/new/reg_file.v" \
+"../../../../0922_1706.srcs/sources_1/new/sign_extension.v" \
+"../../../../0922_1706.srcs/sources_1/new/top.v" \
+"../../../../0922_1706.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,40 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/beq_judge.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module beq_judge
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/br_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module br_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/data_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/ex_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ex_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/hazards_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hazards_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/id_ex.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module id_ex
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/if_id.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module if_id
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/inst_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inst_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/mem_wb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem_wb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/mux_num1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_num1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/mux_num2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_num2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/mux_reg_waddr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_reg_waddr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/mux_reg_wdata.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_reg_wdata
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/reg_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/sign_extension.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sign_extension
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/95135/Desktop/final_0923/0924_latest/0922_1706/0922_1706.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
